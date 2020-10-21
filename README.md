@@ -1,4 +1,7 @@
 # Telescope Operations Simulator
+
+## This project started as a fork of CloudSimPy. It has since evolved from the original repo significantly enough to warrant its own development area. It is now available at https://github.com/top-sim/topsim. 
+
 [![Build Status](https://travis-ci.com/myxie/topsim.svg?branch=master)](https://travis-ci.com/myxie/topsim)
 [![Coverage Status](https://coveralls.io/repos/github/myxie/topsim/badge.svg?branch=master)](https://coveralls.io/github/myxie/topsim?branch=master)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/myxie/topsim/master?filepath=visual)
